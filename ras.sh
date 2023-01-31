@@ -137,7 +137,7 @@ Service-Type=5
 Framed-Protocol=1
 NAS-Port-Type=5
 NAS-IP-Address=$IP
-OpenVPNConfig=/etc/openvpn/server/server.conf
+OpenVPNConfig=/etc/openvpn/server.conf
 subnet=255.255.255.0
 overwriteccfiles=true
 server
@@ -187,7 +187,7 @@ sharedsecret=$secpass
 	Framed-Protocol=1
 	NAS-Port-Type=5
 	NAS-IP-Address=$IP
-	OpenVPNConfig=/etc/openvpn/server/server.conf
+	OpenVPNConfig=/etc/openvpn/server.conf
 	subnet=255.255.255.0
 	overwriteccfiles=true
 	server
