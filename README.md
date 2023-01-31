@@ -1,6 +1,6 @@
 # my
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/koloner/my/master/ras.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Ghost56314/my/master/ras.sh)
 ```
 
 
